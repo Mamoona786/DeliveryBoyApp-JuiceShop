@@ -31,15 +31,15 @@ A modern **Delivery Partner mobile application** built with **React Native** tha
 - React Native  
 - JavaScript (ES6+)  
 - React Navigation  
-- Context API / Redux (if used)  
-- Expo / React Native CLI  
+- Context API
+- Expo CLI  
 
 ---
 
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/your-username/delivery-boy-app.git
+git clone https://github.com/Mamoona786/DeliveryBoyApp-JuiceShop.git
 cd delivery-boy-app
 npm install
 npx expo start
