@@ -7,9 +7,11 @@ A modern **Delivery Partner mobile application** built with **React Native** tha
 ## 📱 Screenshots
 
 <p align="center">
-  <img src="./screenshots/dashboard.png" width="250" />
-  <img src="./screenshots/orders.png" width="250" />
-  <img src="./screenshots/order-details.png" width="250" />
+  <img src="./screenshots/1.JPG" width="250" />
+  <img src="./screenshots/2.JPG" width="250" />
+  <img src="./screenshots/3.JPG" width="250" />
+  <img src="./screenshots/4.JPG" width="250" />
+  <img src="./screenshots/5.JPG" width="250" />
 </p>
 
 ---
